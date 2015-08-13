@@ -1,0 +1,20 @@
+// input: grid size then point number or point coordinates
+// output: point or point number
+
+3
+8
+
+7
+1 1
+
+11
+50
+
+9
+6 8
+
+1024716039
+557614022
+
+234653477
+11777272 289722

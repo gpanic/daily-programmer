@@ -9,7 +9,6 @@
 int main()
 {
 	std::ifstream inputFile("Input.txt");
-
 	std::string line;
 
 	long long gridSize = 0;
